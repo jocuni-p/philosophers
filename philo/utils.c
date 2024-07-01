@@ -6,13 +6,13 @@
 /*   By: jocuni-p <jocuni-p@student.42barcelona.com +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/06/21 11:49:54 by jocuni-p          #+#    #+#             */
-/*   Updated: 2024/06/21 12:05:37 by jocuni-p         ###   ########.fr       */
+/*   Updated: 2024/06/29 18:45:49 by jocuni-p         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "philo.h"
 
-
+/*
 //Inicialitzacio de les vars de struct
 void	init_pack(t_pack *pack, char *argv[])
 {
@@ -30,3 +30,4 @@ double time_diff_millis(struct timeval *start, struct timeval *end)
     double end_ms = (double)end->tv_sec * 1000.0 + (double)end->tv_usec / 1000.0;
     return end_ms - start_ms;
 }
+*/

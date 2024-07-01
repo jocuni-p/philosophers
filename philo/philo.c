@@ -18,6 +18,7 @@ int	main(int argc, char *argv[])
 //	t_general	*general;
 	pthread_t	*thread;//Array de threads/philos
 
+	
 	if (argc < 2)
 	{
 		printf("Debes pasar como arg el numero de filosofos.\n");
